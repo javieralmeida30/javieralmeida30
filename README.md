@@ -1,5 +1,4 @@
 # Hello there, I'm Javier Almeida - Tech Enthusiast!
-# Passionate Technologist | Lifelong Learner | DevOps Enthusiast
 Welcome to my GitHub profile! I'm an enthusiastic technologist who is constantly exploring and learning new things. With a focus on DevOps technologies, I thrive on automating processes, building scalable infrastructure, and improving software delivery practices.
 
 *Infrastructure automation using tools like Ansible, Terraform, and Docker.
