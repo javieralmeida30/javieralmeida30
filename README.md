@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm an enthusiastic technologist who is constantly
 
 🌱 I'm currently preparing for my next certification, the AWS Associate level, as I believe in continually enhancing my skills and staying up-to-date with the latest advancements in the DevOps field. 
 
-💬 I Feel free to reach out to me if you have any questions or would like to collaborate on DevOps projects. You can connect with me on [[LinkedIn]](https://linkedin.com/in/javieralmeida30)
+💬 I Feel free to reach out to me if you have any questions or would like to collaborate on DevOps projects. You can connect with me on [LinkedIn](https://linkedin.com/in/javieralmeida30)
 .
 
 ⚡ Fun fact: Besides coding and technology, I enjoy coaching video games. It's a thrill to help aspiring gamers improve their skills and achieve their goals. 
