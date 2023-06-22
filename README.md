@@ -2,11 +2,15 @@
 Welcome to my GitHub profile! I'm an enthusiastic technologist who is constantly exploring and learning new things. With a focus on DevOps technologies, I thrive on automating processes, building scalable infrastructure, and improving software delivery practices.
 
 *Infrastructure automation using tools like Terraform, Ansible, and Docker.
+
 *Scripting and application development with Python.
+
 *Implementation and management of continuous integration and delivery (CI/CD) pipelines with Jenkins and Github Actions.
 
 *Frontend application development.
+
 *Utilizing and configuring services in the AWS cloud.
+
 *Monitoring DevOps projects with Prometheus and AWS CloudWatch.
 
 🔭 I'm currently working on DevOps projects where I apply my knowledge and experience in the technologies mentioned above.
