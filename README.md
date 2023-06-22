@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm an enthusiastic technologist who is constantly
 
 *Infrastructure automation using tools like Terraform, Ansible, and Docker.
 *Scripting and application development with Python.
-*Implementation and management of continuous integration and delivery (CI/CD) pipelines with Jenkins.
+*Implementation and management of continuous integration and delivery (CI/CD) pipelines with Jenkins and Github Actions.
 *Frontend application development.
 *Utilizing and configuring services in the AWS cloud.
 *Monitoring DevOps projects with Prometheus and AWS CloudWatch.
