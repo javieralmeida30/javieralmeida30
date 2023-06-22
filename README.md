@@ -1,7 +1,7 @@
 # Hello there, I'm Javier Almeida - DevOps Enthusiast!🌟
 Welcome to my GitHub profile! I'm an enthusiastic technologist who is constantly exploring and learning new things. With a focus on DevOps technologies, I thrive on automating processes, building scalable infrastructure, and improving software delivery practices.
 
-*Infrastructure automation using tools like Ansible, Terraform, and Docker.
+*Infrastructure automation using tools like Terraform, Ansible, and Docker.
 *Scripting and application development with Python.
 *Implementation and management of continuous integration and delivery (CI/CD) pipelines with Jenkins.
 *Frontend application development.
